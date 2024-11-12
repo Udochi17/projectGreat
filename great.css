@@ -106,7 +106,7 @@ header {
     background:  linear-gradient(45deg, #c1c1c15e, 5%, #fefefe);
     border-radius: 24px;
     border: 0.5px solid #005ae2;
-    height: 100%;
+    height: max(225px, 100%);
     margin: 10px 0 60px 30%;
     padding: 30px 50px;
     position: relative;
@@ -958,6 +958,10 @@ a {
 
     .hero-vector3 {
         height: 100%;
+    }
+
+    .revolutionize h2 {
+        font-size: 100%;
     }
 
 }
