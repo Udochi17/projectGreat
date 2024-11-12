@@ -303,6 +303,7 @@ header {
 .card ul > li {
     margin: 20px 0;
     font-size: 16px;
+    white-space: nowrap;
 }
 
 .professional-span {
